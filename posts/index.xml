@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我的博客</title>
-    <link>https://example.com/posts/</link>
+    <link>https://philotec.github.io/posts/</link>
     <description>Recent content in Posts on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 07 Jul 2024 15:47:43 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jul 2024 15:47:43 +0800</lastBuildDate><atom:link href="https://philotec.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://philotec.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 07 Jul 2024 15:47:43 +0800</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://philotec.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://example.com/posts/what-is-hugo/</link>
+      <link>https://philotec.github.io/posts/what-is-hugo/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/what-is-hugo/</guid>
+      <guid>https://philotec.github.io/posts/what-is-hugo/</guid>
       <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>What is Hugo</title>
-      <link>https://example.com/posts/introduction/</link>
+      <link>https://philotec.github.io/posts/introduction/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/introduction/</guid>
+      <guid>https://philotec.github.io/posts/introduction/</guid>
       <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
     </item>
     
