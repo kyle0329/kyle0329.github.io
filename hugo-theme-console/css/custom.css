@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'LXGW WenKai';
+    src: url('../font/LXGWWenKaiMono-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+:root {
+    --font-stack: 'LXGW WenKai';
+}
+
+body {
+    font-family: var(--font-stack);
+}

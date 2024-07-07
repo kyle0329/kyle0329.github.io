@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'LXGW WenKai';
+    src: url('../font/LXGWWenKai-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    src: url('../font/LXGWWenKai-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LXGW WenKai';
+    src: url('../font/LXGWWenKai-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+:root {
+    --font-stack: 'LXGW WenKai', 'Roboto Mono', Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+
+body {
+    font-family: var(--font-stack);
+}
