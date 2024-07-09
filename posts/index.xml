@@ -2,36 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我的博客</title>
-    <link>https://philotec.github.io/posts/</link>
+    <link>https://example.com/posts/</link>
     <description>Recent content in Posts on 我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 07 Jul 2024 15:47:43 +0800</lastBuildDate><atom:link href="https://philotec.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 22:02:51 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://philotec.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 07 Jul 2024 15:47:43 +0800</pubDate>
+      <title>夏日骑行：重拾生活的节奏</title>
+      <link>https://example.com/posts/begin-cycling/</link>
+      <pubDate>Mon, 08 Jul 2024 22:02:51 +0800</pubDate>
       
-      <guid>https://philotec.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://philotec.github.io/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://philotec.github.io/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://philotec.github.io/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://philotec.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <guid>https://example.com/posts/begin-cycling/</guid>
+      <description>今天重新开始了骑行上下班。
+毕竟还在七月，北京的太阳正毒，戴上墨镜、手套、围上面巾，穿上防晒服，除了蹬车子伸直腿时露出的脚踝，其他地方都遮的严严实实。
+换了一条去公司的路，需要穿过一条河，河上有一座只能两人并排通过的木桥。以前只有晚上下班回家时才会走这条路，河这一段没有路灯，走在桥上，听着流水的声音，别有一番韵味。
+因为前段时间换了个小熊的轮胎，没有了原装轮胎的笨重，现在骑行更轻快了许多。
+近期越发的感觉终身学习、持续提升自己的重要性，阅读、骑行、健身、摄影、徒步，这些已慢慢发展成了自己的小爱好，而在工作之余独立完成一些项目，也是自己希望能一直坚持下去的事。
+强健体魄，丰富精神，提升生存技巧，就先从骑行开始吧！
+骑行刚开始时追求速度，但现在只想慢慢的骑，能一直骑下去。
+ 下班途中最喜欢的一段路
+  </description>
     </item>
     
   </channel>
